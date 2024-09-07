@@ -1,0 +1,14 @@
+.custom-gap {
+  gap: 8rem; /* Adjust the value to your preferred gap size */
+}
+
+
+/* about us */
+.background-image {
+  background-image: url('D:\frontendpractice\uidesign\src\assets\images\Rectangle 7.png');
+  background-size: cover; /* Ensures the image covers the entire element */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  height: 737px;
+  width: 1140px; 
+}
